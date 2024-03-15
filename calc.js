@@ -5,5 +5,8 @@ module.exports = {
     },
     multiplicacao: (x, y) => {
         return x * y
+    },
+    divisao: function(x ,y){
+        return x / y
     }
 };
